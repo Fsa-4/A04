@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<title>My First Web Page</title>
+	</head>
+	<body>
+		<p>
+			Name: Fabian Almeida <br>
+			Username: FSA4 <br>
+			Course: Introduction to Website Development <br>
+			Section: IS117-002 <br>
+		</p>
+	</body>
+</html>
